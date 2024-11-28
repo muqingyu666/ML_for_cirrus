@@ -1,8 +1,8 @@
-# ☁️ CloudSat-CALIPSO combine Data Processing and Regression Analysis Project
+# ☁️ ML Analysis of Cirrus-Meteorology Relationships
 
-Welcome to the CloudSat Data Processing and Regression Analysis project! 🚀
+Welcome to the ML-based Cirrus Cloud Analysis project! 🚀
 
-This project aims to analyze and predict cloud-related data using machine learning techniques. Whether you're a data science enthusiast or a researcher, you'll find a wealth of resources here to explore and utilize.
+This project focuses on understanding and predicting cirrus cloud formation and properties through their relationships with meteorological conditions using machine learning techniques. By combining CloudSat-CALIPSO observations with meteorological data, we aim to uncover the complex interactions between cirrus clouds and atmospheric conditions.
 
 ## 📁 Table of Contents
 
@@ -14,11 +14,11 @@ This project aims to analyze and predict cloud-related data using machine learni
 
 ## Project Overview 🎯
 
-This project primarily focuses on three main aspects:
+This project primarily investigates three key aspects of cirrus-meteorology relationships:
 
-1. **Data Preprocessing**: Cleaning and preparing CloudSat data for analysis
-2. **Regression Models**: Building predictive models using Ridge Regression and XGBoost
-3. **Evaluation and Visualization**: Assessing model performance with comprehensive visualizations
+1. **Data Integration**: Combining CloudSat-CALIPSO cirrus observations with meteorological parameters
+2. **Machine Learning Models**: Applying Ridge Regression and XGBoost to understand cirrus-meteorology relationships
+3. **Analysis and Visualization**: Quantifying the relationships between cirrus properties and meteorological conditions
 
 ## Usage 📝
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for your interest in the CloudSat Data Processing and Regression Analysis Project! Let's work together to advance cloud data analysis! 🌟
+Thank you for your interest in our cirrus-meteorology analysis project! Together, we can better understand the complex relationships between cirrus clouds and atmospheric conditions! 🌟
